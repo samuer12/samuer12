@@ -27,6 +27,7 @@
 
 ## 🎮 Projetos
 [PEDRA, PAPEL, TESOURA](https://github.com/samuer12/Pedra_Papel_Tesoura_V1)  <img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+[FEIFOOD](https://github.com/samuer12/feifood)<img align="center" alt="C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
 ---
 ## ✨ Sobre mim
