@@ -4,7 +4,8 @@
 
 💻 Estudante de Ciência da Computação  
 🎮 Gosto de criar coisas (principalmente jogos e projetos criativos)  
-📍 São Bernardo do Campo - São Paulo, Brasil  
+📍 São Bernardo do Campo - São Paulo, Brasil
+📧 samuelgieseantonioli@email.com
 
 ---
 
@@ -39,9 +40,3 @@ Interessado em desenvolvimento, jogos e projetos criativos.
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=samuer12&show_icons=true&theme=tokyonight)
 
----
-
-
-## 📫 Contato
-
-- Email: samuelgieseantonioli@email.com
