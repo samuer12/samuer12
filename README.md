@@ -27,15 +27,13 @@
 Oi, me chamo Samuel! Sou Estudante de Ciência da Computação e programador em formação! | Python, C, C++, C#, Java, HTML, SQL
 Interessado em desenvolvimento, jogos e projetos criativos.
 
-<img src="LINK_DA_SUA_IMAGEM_AQUI" width="200px"/>
+<img src="https://github.com/user-attachments/assets/31b857d4-a2d1-494f-92ea-c53ba01db29f" width="200px"/>
 
 
 - Gosto de programar, criar e explorar ideias diferentes  
 - Curto coisas inovadoras e criativas
-- Atualmente aprendendo mais sobre desenvolvimento e jogos  
-
----![954c3396-cafe-4337-ba27-560024bd2b8a](https://github.com/user-attachments/assets/31b857d4-a2d1-494f-92ea-c53ba01db29f)
-
+- Atualmente aprendendo mais sobre desenvolvimento e jogos   
+---
 
 ## 📊 Stats
 
