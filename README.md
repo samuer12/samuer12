@@ -1,6 +1,6 @@
 # 👋 Oi, eu sou o Sam!
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="150px" align="right"/>
+<img src="https://i.pinimg.com/originals/ed/ee/fd/edeefdc6bf2e354ab78da22737347886.gif" width="150px" align="right"/>
 
 💻 Estudante de Ciência da Computação  
 🎮 Gosto de criar coisas (principalmente jogos e projetos criativos)  
