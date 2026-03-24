@@ -23,7 +23,10 @@
   <img align="center" alt="SQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
+---
+
 ## 🎮 Projetos
+[PEDRA, PAPEL, TESOURA](https://github.com/samuer12/Pedra_Papel_Tesoura_V1)  <img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
 ---
 ## ✨ Sobre mim
