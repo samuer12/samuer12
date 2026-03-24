@@ -11,7 +11,7 @@
 - Unity
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=samuer12&show_icons=true)
 
 ## 📫 Contato
 - Email: samuelgieseantonioli@email.com
