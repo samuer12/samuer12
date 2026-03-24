@@ -30,6 +30,8 @@
 
 [FEIFOOD](https://github.com/samuer12/feifood)<img align="center" alt="C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
+[SPOTIFEI](https://github.com/samuer12/spotifei)<img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
 ---
 ## ✨ Sobre mim
 Oi, me chamo Samuel! Sou Estudante de Ciência da Computação e programador em formação! | Python, C, C++, C#, Java, HTML, SQL
