@@ -23,6 +23,7 @@
   <img align="center" alt="SQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
+## 🎮 Projetos
 
 ---
 ## ✨ Sobre mim
