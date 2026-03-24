@@ -5,7 +5,6 @@
 💻 Estudante de Ciência da Computação  
 🎮 Gosto de criar coisas (principalmente jogos e projetos criativos)  
 📍 São Bernardo do Campo - São Paulo, Brasil
-
 📧 samuelgieseantonioli@email.com
 
 ---
