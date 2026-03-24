@@ -1,16 +1,17 @@
-## Olá! 👋
+# 👋 Olá, eu sou o Sam
 
-<!--
-**samuer12/samuer12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Ciência da Computação  
+📍 Brasil  
+🚀 Interessado em desenvolvimento, jogos e IA  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- Python
+- JavaScript
+- C, C++, C#
+- Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true)
+
+## 📫 Contato
+- Email: samuelgieseantonioli@email.com
