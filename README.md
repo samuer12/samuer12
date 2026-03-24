@@ -4,7 +4,7 @@
 
 💻 Estudante de Ciência da Computação  
 🎮 Gosto de criar coisas (principalmente jogos e projetos criativos)  
-📍 Brasil  
+📍 São Bernardo do Campo - São Paulo, Brasil  
 
 ---
 
@@ -21,7 +21,21 @@
   <img align="center" alt="SQL" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
+
 ---
+## ✨ Sobre mim
+Oi, me chamo Samuel! Sou Estudante de Ciência da Computação e programador em formação! | Python, C, C++, C#, Java, HTML, SQL
+Interessado em desenvolvimento, jogos e projetos criativos.
+
+<img src="LINK_DA_SUA_IMAGEM_AQUI" width="200px"/>
+
+
+- Gosto de programar, criar e explorar ideias diferentes  
+- Curto coisas inovadoras e criativas
+- Atualmente aprendendo mais sobre desenvolvimento e jogos  
+
+---![954c3396-cafe-4337-ba27-560024bd2b8a](https://github.com/user-attachments/assets/31b857d4-a2d1-494f-92ea-c53ba01db29f)
+
 
 ## 📊 Stats
 
@@ -29,19 +43,6 @@
 
 ---
 
-## 🖼️ Minha foto
-
-<img src="LINK_DA_SUA_IMAGEM_AQUI" width="200px"/>
-
----
-
-## ✨ Sobre mim
-
-- Gosto de programar, criar e explorar ideias diferentes  
-- Curto coisas meio criativas 👀  
-- Atualmente aprendendo mais sobre desenvolvimento e jogos  
-
----
 
 ## 📫 Contato
 
