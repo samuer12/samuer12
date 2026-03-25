@@ -27,13 +27,30 @@
 ---
 
 ## 🎮 Projetos
-[PEDRA, PAPEL, TESOURA](https://github.com/samuer12/Pedra_Papel_Tesoura_V1)  <img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 
-[FEIFOOD](https://github.com/samuer12/feifood)<img align="center" alt="C" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<div>
+  <h3>🎲 <a href="https://github.com/samuer12/Pedra_Papel_Tesoura_V1">PEDRA, PAPEL, TESOURA</a></h3>
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <p>Jogo de lógica desenvolvido em Python.</p>
+</div>
 
-[SPOTIFEI](https://github.com/samuer12/spotifei)<img align="center" alt="Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<div>
+  <h3>🍔 <a href="https://github.com/samuer12/feifood">FEIFOOD</a></h3>
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <p>Simulação de um sistema estilo iFood em C, desenvolvido para o 2º semestre de Ciência da Computação na FEI.</p>
+</div>
 
-[MIRACULOUS](https://github.com/samuer12/MIRACULOUS-js)<img align="center" alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<div>
+  <h3>🎧 <a href="https://github.com/samuer12/spotifei">SPOTIFEI</a></h3>
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <p>Simulação de um sistema inspirado no Spotify em Python, desenvolvido para o 2º semestre de Ciência da Computação na FEI.</p>
+</div>
+
+<div>
+  <h3>🐞 <a href="https://github.com/samuer12/MIRACULOUS-js">MIRACULOUS</a></h3>
+  <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <p>Jogo inspirado em Miraculous Ladybug, desenvolvido em JavaScript para o 1º semestre de Ciência da Computação na FEI.</p>
+</div>
 
 ---
 ## ✨ Sobre mim
