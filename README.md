@@ -45,7 +45,7 @@
 <div>
   <h3> <a href="https://github.com/samuer12/spotifei">SPOTIFEI</a></h3>
   <img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <p>Simulação de um sistema inspirado no Spotify em Python, desenvolvido para o 2º semestre de Ciência da Computação na FEI.</p>
+  <p>Simulação de um sistema inspirado no Spotify em Python, desenvolvido para o 1º semestre de Ciência da Computação na FEI.</p>
   <p>Data: 2025</p>
 </div>
 
