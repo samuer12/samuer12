@@ -64,7 +64,7 @@
 </div>
 
 ---
-## ✨ Sobre mim
+## 🪲 Sobre mim
 Oi, me chamo Samuel! Sou Estudante de Ciência da Computação e programador em formação! | Python, C, C++, C#, Java, HTML, SQL
 Interessado em desenvolvimento, jogos e projetos criativos.
 
